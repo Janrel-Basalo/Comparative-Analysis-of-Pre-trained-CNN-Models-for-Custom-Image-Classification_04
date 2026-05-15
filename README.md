@@ -1,6 +1,6 @@
 # Comparative-Analysis-of-Pre-trained-CNN-Models-for-Custom-Image-Classification_05
 
-goole Colab: https://drive.google.com/file/d/1vN6ASuTvLtf8spOPU7T1k3ZgZZPiRNM7/view?usp=sharing
+goole Colab: https://colab.research.google.com/drive/1vN6ASuTvLtf8spOPU7T1k3ZgZZPiRNM7#scrollTo=NUs945SmxHS6
 
 
 
