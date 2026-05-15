@@ -1,7 +1,7 @@
 # 🌿 Comparative Analysis of Pre-trained CNN Models for Custom Image Classification
 
 > **Laboratory Work 5** — Deep Learning | Custom Aquatic Plant Image Classifier  
-> 📓 [Open in Google Colab](https://colab.research.google.com/drive/1vN6ASuTvLtf8spOPU7T1k3ZgZZPiRNM7#scrollTo=p13-guide)
+> 📓 [Open in Google Colab](https://colab.research.google.com/drive/1VhVzcXHu1vuoifQG5XM2YFXV-LORwmZY#scrollTo=p12-chart)
 
 
 ## GUIDE QUESTIONS — Final Reflection
